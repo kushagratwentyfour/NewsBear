@@ -10,7 +10,7 @@ import {
 } from "react-router-dom";
 import LoadingBar from 'react-top-loading-bar'
 
- 
+ //commit
 export default class App extends Component {
   key="7a2cab49e4804ea2978e1a1e99a65b5a"//process.env.REACT_APP_NEWS_API
   state = {
